@@ -37,9 +37,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-##Publications
+##Fields of Interest
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% Scholarly Editing %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
