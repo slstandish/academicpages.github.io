@@ -13,7 +13,7 @@ name                     : &name "S.L.Standish"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://slstandish.github.io/sls/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   location         : "Mt. Pleasant, MI"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "nicke1sl@cmich.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,9 +95,9 @@ author:
   github           : "slstandish"
   google_plus      :
   keybase          :
-  instagram        : "@CMU_Libraries"
+  instagram        : "CMU_Libraries"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sandra-standish/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
