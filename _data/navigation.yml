@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Archives and History "
-    url: /archivesandhistory/
+    url: /publications/
 
   - title: "Presentations"
-    url: /presentations/    
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Writing"
-    url: /writing/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
