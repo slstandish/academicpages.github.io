@@ -39,7 +39,7 @@ Skills
 
 ##Fields of Interest
 ======
-  <ul>{% Scholarly Editing %}
+  <ul>{% for %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
